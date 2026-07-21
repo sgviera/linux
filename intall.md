@@ -36,5 +36,8 @@ dpkg -i filename.deb
 
 ## From snap
 
+### Installation with Snap
 
-[coming soon...]
+```
+sudo snap install telegram-desktop
+```
